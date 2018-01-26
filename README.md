@@ -5,7 +5,8 @@ Send Messages and control another account through Discord
 
 You can send messages with your main account, and have the message repeated from another account in another server 
 
-When sending messages, your UserBot will delete your discod message and send the message to your desired channel
+When sending messages, your User"Bot" will delete your discord message and send the message to your desired channel, replacing it with the webhook variant.
+
 ---
 
 `npm install discord.js`
